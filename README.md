@@ -13,6 +13,10 @@ Collaborative Filtering technique is based on the interaction between the two us
 2. Collaborative item based filtering : finding comparable movies that targeted users rate or interact about.
 
 Language used : Python
+              
               Libraries used : 1. pandas
                                2. numpy
                                3.scikit learn
+                               4. AST
+                               5.NLTK (Natural Language Tool Kit)
+                               6.sklearn
